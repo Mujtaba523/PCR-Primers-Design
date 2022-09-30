@@ -1,0 +1,5 @@
+BioPython: pip install Bio OR py -3 -m pip install Bio
+collections: Although it is built-in library but if it is not install then you can isntall it;
+	    pip install collections OR py -3 -m pip install collections
+
+Enter these statements on CMD to download the libraries
